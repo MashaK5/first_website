@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+## Привет, это Маша!
 
-You can use the [editor on GitHub](https://github.com/MashaK5/first_website/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Я знаю, что от меня ожидают написания всего по-английски, но это мой сайт, поэтому хотя бы тут я расслаблюсь!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Немного обо мне:
 
-### Markdown
+* не люблю кофе
+* а между прочим, без него очень тяжело учиться
+* чай только усыпляет(
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MashaK5/first_website/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+![Сокка](https://images2.fanpop.com/image/photos/9200000/Cute-Aang-and-Sokka-avatar-the-last-airbender-9207884-512-384.jpg)
